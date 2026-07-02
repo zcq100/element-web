@@ -23,9 +23,7 @@
         "https://scalar-staging.vector.im/api"
     ],
     "default_widget_container_height": 280,
-    "default_country_code": "CN",
-    "default_language": "zh-hans",
-
+    "default_country_code": "GB",
     "show_labs_settings": false,
     "features": {},
     "default_federate": true,
@@ -38,7 +36,9 @@
         "https://matrix-client.matrix.org": false
     },
     "setting_defaults": {
-        "breadcrumbs": true
+        "breadcrumbs": true,
+        "language": "zh-hans",
+        "UIFeature.languageSettings": true
     },
     "jitsi": {
         "preferred_domain": "meet.element.io"
