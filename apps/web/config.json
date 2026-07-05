@@ -1,13 +1,13 @@
 {
     "default_server_config": {
         "m.homeserver": {
-            "base_url": "https://chat.164380.xyz",
+            "base_url": "https://hajimi.164380.xyz",
             "server_name": "164380.xyz"
         }
     },
     "homeserver_list": [
         {
-            "base_url": "https://chat.164380.xyz",
+            "base_url": "https://hajimi.164380.xyz",
             "server_name": "164380.xyz",
             "label": "164380.xyz 官方服务器"
         },
